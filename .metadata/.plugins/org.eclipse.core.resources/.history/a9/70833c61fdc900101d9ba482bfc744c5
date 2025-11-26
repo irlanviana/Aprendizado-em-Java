@@ -1,0 +1,22 @@
+package calculator.body_mass_index;
+
+import java.util.Scanner;
+
+public class version_1_0 {
+	
+	public static void main(String[] args) {
+		
+		Scanner in = new Scanner(System.in);
+		
+		System.out.println("Vamos fazer o cálculo do seu Índice de Massa");
+		
+		System.out.println("Digite sua altura (cm): ");
+		double altura = in.nextDouble();
+		System.out.println("Digite seu peso (kg): ");
+		double peso = in.nextDouble();
+		
+		in.close();
+		
+	}
+
+}
