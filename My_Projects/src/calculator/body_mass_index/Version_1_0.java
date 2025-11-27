@@ -2,7 +2,7 @@ package calculator.body_mass_index;
 
 import java.util.Scanner;
 
-public class version_1_0 {
+public class Version_1_0 {
 	
 	public static void main(String[] args) {
 		
