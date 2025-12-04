@@ -6,6 +6,8 @@ public class DesafioConclusaoModulo {
 	
 	public static void main(String[] args) {
 		
+		//Calculadora com Operadores Ternários
+		
 		Scanner in = new Scanner(System.in);
 		
 		System.out.print("Informe o número: ");
